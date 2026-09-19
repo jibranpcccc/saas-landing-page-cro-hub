@@ -1,5 +1,24 @@
 [
   {
+    "id": "saas-landing-page-cro-hub-reddit-20260919-1",
+    "title": "r/Entrepreneur Business Guild",
+    "platform": "Reddit",
+    "category": "Entrepreneurship",
+    "memberCount": "3,400,000+ members",
+    "description": "Massive community of business owners, self-employed creators, and bootstrappers sharing revenue case studies, operational blueprints, and scaling lessons.",
+    "joinUrl": "https://www.reddit.com/r/Entrepreneur/",
+    "tags": [
+      "entrepreneur",
+      "business",
+      "scaling",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-19"
+  },
+  {
     "id": "saas-landing-page-cro-hub-reddit-20260918-1",
     "title": "r/copywriting Conversion Writers",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-18"
   },
   {
